@@ -6,6 +6,7 @@ openai
 langchain
 langchain-community
 langchain-pinecone
+langchain-openai
 pandas
 numpy
 python-dotenv
